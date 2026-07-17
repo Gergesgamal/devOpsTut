@@ -1,0 +1,21 @@
+{
+  "name": "devOps",
+  "version": "1.0.0",
+  "description": "this is my first devOps Project and that's embarasing i think so.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node index.js",
+    "run": "node index.js"
+  },
+  "keywords": [
+    "devOps",
+    "docker",
+    "javascript",
+    "js",
+    "nodejs"
+  ],
+  "author": "Gerges Gamal <gg367743@gmail.com> (https://gergesgamal.netlify.app/)",
+  "license": "ISC",
+  "packageManager": "pnpm@10.27.0"
+}
